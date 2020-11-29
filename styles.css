@@ -1,0 +1,12 @@
+.lista {
+  border: 2px solid red;
+  display: flex;
+}
+
+.item {
+  border: 2px solid blue;
+}
+
+.item--first {
+  height: 100px;
+}
